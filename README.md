@@ -24,4 +24,4 @@ This project focuses on building a robust data engineering pipeline with a web s
 ## How to Run
 1. Clone the repository:  
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/talghatovich/de_proj.git
